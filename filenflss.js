@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const targetUrl = "https://your-own-domain.com/";
+  const targetUrl = "https://swapnodala.com/";
 
   // ব্যবহারকারীকে জানিয়ে তারপর redirect করা
   const message = document.createElement("p" );
